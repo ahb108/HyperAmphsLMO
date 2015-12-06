@@ -23,4 +23,4 @@ in total.
 
 ### Find the code on GitHub
 
-[![](http://micropasts-other.s3.amazonaws.com/other/github_logo.png)](https://github.com/ahb108/HyperAmphsH)
+[![](http://micropasts-other.s3.amazonaws.com/other/github_logo.png)](https://github.com/ahb108/HyperAmphsLMO)
